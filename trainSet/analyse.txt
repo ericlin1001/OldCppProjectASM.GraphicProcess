@@ -1,0 +1,18 @@
+http://gz.jiajiao114.com/member/check_number.php
+each num:8*10
+space between two num:2
+the left-top start point:2,4
+
+
+  |2|8|2|8|2|8|2|8|2|2|
+_
+4
+-
+10
+-
+4
+-
+
+ANN configuration:
+input->80->7->9
+this's used to recognize the graph contain number.
